@@ -1,0 +1,74 @@
+{
+  "id": "steinhardcompendium",
+  "title": "Compendium Steinhard's Guide to the Eldritch Hunt",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "TheDelalex",
+      "email": "dellouealexandre36@gmail.com",
+      "discord": "thedelalex"
+    }
+  ],
+  "packs": [
+    {
+      "name": "race",
+      "label": "Races",
+      "path": "packs/race",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "races-features",
+      "label": "Races Features",
+      "path": "packs/races-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclass",
+      "label": "Subclass",
+      "path": "packs/subclass",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclass-features",
+      "label": "Subclass Features",
+      "path": "packs/subclass-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "creature",
+      "label": "Créature",
+      "path": "packs/creature",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/TheDelalex/Compendium_TheDelalex"
+}
