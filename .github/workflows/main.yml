@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: ncipollo/release-action@v2
+    - uses: ncipollo/release-action@v1
       with:
         artifacts: './module.json'
         tag: latest
