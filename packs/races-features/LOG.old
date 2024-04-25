@@ -1,8 +1,5 @@
-2024/04/24-10:38:06.365 5b1c Recovering log #4
-2024/04/24-10:38:06.369 5b1c Delete type=0 #4
-2024/04/24-10:38:06.369 5b1c Delete type=3 #2
-2024/04/25-10:38:09.332 4638 Level-0 table #9: started
-2024/04/25-10:38:09.334 4638 Level-0 table #9: 0 bytes OK
-2024/04/25-10:38:09.335 4638 Delete type=0 #7
-2024/04/25-10:38:09.336 4638 Manual compaction at level-0 from '!items!0A0A5HJSsWDyCB4x' @ 72057594037927935 : 1 .. '!items.effects!kITHbNyHCdmNpPCr.WWXE970gws2Ylyy4' @ 0 : 0; will stop at (end)
-2024/04/25-10:38:09.363 4638 Manual compaction at level-1 from '!items!0A0A5HJSsWDyCB4x' @ 72057594037927935 : 1 .. '!items.effects!kITHbNyHCdmNpPCr.WWXE970gws2Ylyy4' @ 0 : 0; will stop at (end)
+2024/04/25-20:38:40.665 5514 Log #20: 0 ops saved to Table #21 OK
+2024/04/25-20:38:40.666 5514 Archiving C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\races-features/000020.log: OK
+2024/04/25-20:38:40.666 5514 Table #5: 138 entries OK
+2024/04/25-20:38:40.669 5514 Archiving C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\races-features/MANIFEST-000018: OK
+2024/04/25-20:38:40.673 5514 **** Repaired leveldb C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\races-features; recovered 1 files; 89248 bytes. Some data may have been lost. ****

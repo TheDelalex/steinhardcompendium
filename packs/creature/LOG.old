@@ -1,8 +1,5 @@
-2024/04/24-10:38:06.392 2dfc Recovering log #4
-2024/04/24-10:38:06.398 2dfc Delete type=0 #4
-2024/04/24-10:38:06.398 2dfc Delete type=3 #2
-2024/04/25-10:38:09.293 4638 Level-0 table #9: started
-2024/04/25-10:38:09.293 4638 Level-0 table #9: 0 bytes OK
-2024/04/25-10:38:09.297 4638 Delete type=0 #7
-2024/04/25-10:38:09.336 4638 Manual compaction at level-0 from '!actors!fpaF8z5SMZnkgPOv' @ 72057594037927935 : 1 .. '!actors.items!fpaF8z5SMZnkgPOv.fGUAXMF7NCUONJhz' @ 0 : 0; will stop at (end)
-2024/04/25-10:38:09.336 4638 Manual compaction at level-1 from '!actors!fpaF8z5SMZnkgPOv' @ 72057594037927935 : 1 .. '!actors.items!fpaF8z5SMZnkgPOv.fGUAXMF7NCUONJhz' @ 0 : 0; will stop at (end)
+2024/04/25-20:38:40.724 3cac Log #20: 0 ops saved to Table #21 OK
+2024/04/25-20:38:40.725 3cac Archiving C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\creature/000020.log: OK
+2024/04/25-20:38:40.725 3cac Table #5: 5 entries OK
+2024/04/25-20:38:40.727 3cac Archiving C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\creature/MANIFEST-000018: OK
+2024/04/25-20:38:40.730 3cac **** Repaired leveldb C:\Users\alexd\AppData\Local\FoundryVTT\Data\modules\steinhardcompendium\packs\creature; recovered 1 files; 6202 bytes. Some data may have been lost. ****
