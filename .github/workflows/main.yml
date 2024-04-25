@@ -13,5 +13,9 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         allowUpdates: true
+        name: Latest
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
         artifacts: './module.json'
         tag: latest
