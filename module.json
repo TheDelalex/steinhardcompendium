@@ -3,6 +3,7 @@
   "title": "Compendium Steinhard's Guide to the Eldritch Hunt",
   "version": "1.0.0",
   "manifest": "https://github.com/TheDelalex/steinhardcompendium/releases/download/latest/module.json",
+  "download": "https://github.com/TheDelalex/steinhardcompendium/releases/download/latest/module.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
